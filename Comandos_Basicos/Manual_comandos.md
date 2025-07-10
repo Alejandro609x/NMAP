@@ -102,8 +102,6 @@ Nmap done: 1 IP address (1 host up) scanned in 0.03 seconds
 
 ---
 
-### 🖼️ Captura del resultado:
-
 ![Resultado de nmap -p](/Imagenes/escaneo_puerto.png)
 
 ---
