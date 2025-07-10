@@ -33,7 +33,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.00 seconds
 * **`Starting Nmap 7.94SVN (...)`**
   Indica la versión de Nmap utilizada y la fecha/hora local de inicio del escaneo.
 
-* **`Nmap scan report for 10.1.195.79`**
+* **`Nmap scan report for 1.1.1.1`**
   Especifica la dirección IP objetivo que se escaneó.
 
 * **`Host is up (0.00082s latency).`**
