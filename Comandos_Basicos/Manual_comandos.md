@@ -27,6 +27,8 @@ Nmap done: 1 IP address (1 host up) scanned in 0.00 seconds
 
 ### 📌 Análisis del resultado:
 
+![Resultado de nmap -sn](imagenes/nmap_sn_result.png)
+
 * **`Starting Nmap 7.94SVN (...)`**
   Indica la versión de Nmap utilizada y la fecha/hora local de inicio del escaneo.
 
