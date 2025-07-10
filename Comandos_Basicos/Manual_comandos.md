@@ -3,7 +3,7 @@
 ### Comando ejecutado:
 
 ```bash
-nmap -sn 10.1.195.79
+nmap -sn 1.1.1.1
 ```
 
 ### 📖 Descripción:
@@ -18,7 +18,7 @@ Este comando es útil cuando quieres saber si una dirección IP específica o un
 
 ```
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-07-10 10:15 CST
-Nmap scan report for 10.1.195.79
+Nmap scan report for 1.1.1.1
 Host is up (0.00082s latency).
 Nmap done: 1 IP address (1 host up) scanned in 0.00 seconds
 ```
