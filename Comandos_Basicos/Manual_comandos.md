@@ -60,10 +60,6 @@ Este tipo de escaneo **no requiere privilegios de administrador**, pero en algun
 
 ---
 
-Perfecto. Aquí tienes una sección **Markdown completa y explicada** para incluir en tu manual de GitHub sobre el uso de `nmap -p` para escanear puertos específicos:
-
----
-
 ## 🔍 Escaneo de Puertos Específicos (`-p`)
 
 ### 📦 Comando ejecutado:
